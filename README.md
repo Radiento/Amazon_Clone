@@ -1,7 +1,8 @@
 # Flutter Amazon Clone
 
-Full Stack Amazon Clone along with Admin Panel
+Full Stack Working Amazon Clone app with Admin Dashboard using Flutter and Backend with NodeJs and MongoDB
 
+<img width="600" src="https://cdn.rentechdigital.com/common_files/blogs/how-to-create-an-app-like-amazon-swipecart-blog-img-24-14-09-2022.png"/>
 
 ## Installation
 
