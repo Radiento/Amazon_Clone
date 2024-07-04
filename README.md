@@ -1,16 +1,74 @@
-# flutter_amazon_clone
+# Flutter Amazon Clone
 
-A new Flutter project.
+Full Stack Amazon Clone along with Admin Panel
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+Install and run this project by following these steps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Clone this repository:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/your-username/your-project.git
+```
+
+- Navigate to the project directory:
+
+```bash
+cd your-project
+```
+
+- Navigate to the project directory:
+
+```bash
+cd your-project
+```
+- Install dependencies:
+
+```bash
+flutter pub get
+```
+
+- Run the app:
+
+```bash
+flutter run
+```
+    
+## Run using NPM server
+
+- Navigate to global_varibles.dart:
+
+```bash
+your-project/lib/constants/global_variables.dart
+```
+
+- Update Uri variable:
+
+```bash
+String uri = 'http://<your-ip-address>:3000';
+```
+
+- Navigate to the server directory:
+
+```bash
+cd your-project/server
+```
+
+- Install npm dependencies:
+
+```bash
+npm i
+```
+- Run index.js:
+
+```bash
+npm run dev
+```
+
+- Run the app:
+
+```bash
+flutter run
+```
