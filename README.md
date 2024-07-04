@@ -2,6 +2,11 @@
 
 Full Stack Working Amazon Clone app with Admin Dashboard using Flutter and Backend with NodeJs and MongoDB
 
+## Tech Used
+**Server**: Node.js, Express, Mongoose, MongoDB, Cloudinary
+
+**Client**: Flutter, Dart, APIs
+
 <img width="600" src="https://cdn.rentechdigital.com/common_files/blogs/how-to-create-an-app-like-amazon-swipecart-blog-img-24-14-09-2022.png"/>
 
 ## Installation
